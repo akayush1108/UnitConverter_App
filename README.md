@@ -1,5 +1,5 @@
 # UnitConverter_App
-UnitConverter is a JAVA based Unit Converter android application which basically converts kg value into Pounds.
+UnitConverter is a `JAVA` based Unit Converter android application which basically converts kg value into Pounds.
 
 ## App Screenshots
 
